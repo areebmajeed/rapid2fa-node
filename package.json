@@ -1,6 +1,6 @@
 {
   "name": "rapid2fa",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This Node library enables you to communicate with Rapid2FA API.",
   "main": "index.js",
     "dependencies": {
