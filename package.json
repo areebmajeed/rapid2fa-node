@@ -1,0 +1,26 @@
+{
+  "name": "rapid2fa",
+  "version": "1.0.0",
+  "description": "This Node library enables you to communicate with Rapid2FA API.",
+  "main": "index.js",
+    "dependencies": {
+    "needle": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areebmajeed/rapid2fa-node.git"
+  },
+  "keywords": [
+    "2fa",
+    "rapid2fa"
+  ],
+  "author": "Areeb Majeed <areeb@volcrado.com> (http://areebmajeed.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/areebmajeed/rapid2fa-node/issues"
+  },
+  "homepage": "https://github.com/areebmajeed/rapid2fa-node#readme"
+}
