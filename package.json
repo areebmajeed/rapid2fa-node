@@ -1,10 +1,10 @@
 {
   "name": "rapid2fa",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This Node library enables you to communicate with Rapid2FA API.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "readmeFilename ": "README.md",
-    "dependencies": {
+  "dependencies": {
     "needle": "^1.4.0"
   },
   "scripts": {
@@ -18,7 +18,11 @@
     "2fa",
     "rapid2fa"
   ],
-  "author": "Areeb Majeed <areeb@volcrado.com> (http://areebmajeed.me/)",
+  "author": {
+    "name": "Areeb Majeed",
+    "email": "areeb@volcrado.com",
+    "url": "http://areebmajeed.me/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/areebmajeed/rapid2fa-node/issues"
